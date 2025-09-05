@@ -1,4 +1,4 @@
-## AI\@UCI
+## AI\@UCI 🐜🍴
 
 Welcome to the official **AI\@UCI** GitHub page. Our **ML101 repository** contains all the code demos and hands-on examples shown during the course, as well as materials from our various meetups.
 
