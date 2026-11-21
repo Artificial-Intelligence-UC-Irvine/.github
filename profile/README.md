@@ -8,5 +8,6 @@ Welcome to the official **AI\@UCI** GitHub page. Our **ML101 repository** contai
 
 Throughout the course, we cover various topics in machine learning, including supervised and unsupervised learning, model evaluation, data preprocessing, and more. All code shown during lectures and meetings is made available in this repository for reference and learning. Our lectures are also recorded.
 
-### YouTube Channel
-* Workshop Recordings: https://www.youtube.com/@AIatUCI
+### YouTube Channel & Projects
+* Workshop Recordings: [https://www.youtube.com/@AIatUCI](https://www.youtube.com/@AIatUCI)
+* Projects & previous code: [https://github.com/aiclubatuci](https://github.com/aiclubatuci)
